@@ -12,3 +12,5 @@ Estudar segurança (bloqueio/liberação de portas)
 Debian pode ser o servidor
 Arch pode ser sua máquina cliente
 Você acessa, envia arquivos, roda serviços
+
+TUDO SERA FEITO NO TERMINAL
