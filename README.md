@@ -6,7 +6,6 @@ Acesso remoto → administrar um servidor via SSH
 Transferência de arquivos → backups, deploy de sistemas
 Testes de rede → IP, firewall, portas
 Simular servidor + cliente
-Estudar segurança (bloqueio/liberação de portas)
 
 💻 Exemplo real:
 Debian pode ser o servidor
